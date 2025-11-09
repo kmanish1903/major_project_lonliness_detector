@@ -33,3 +33,4 @@ Install on any device with offline support via service workers.
 ---
 
 **Project URL**: https://calm-mind-builder.vercel.app
+**Updated Project**: https://lonliness-detector.vercel.app
